@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Netflix App Clone**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Tiktok App Clone**
 
 - 🤝 I’m looking for help with **AWS Amplify**
 
-- 💬 Ask me about **React.js, React Native, Javascript, Redux**
+- 💬 Ask me about **Flutter, React.js, React Native, Javascript, Redux**
 
 - 📫 How to reach me **mubarakshabel0@gmail.com**
 
