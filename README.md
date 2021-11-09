@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/iamshabell" target="blank"><img src="https://img.shields.io/twitter/follow/iamshabell?logo=twitter&style=for-the-badge" alt="iamshabell" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix App Clone**
+- 🔭 I’m currently working on **Premier Wallet Clone**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Tiktok App Clone**
-
 - 🤝 I’m looking for help with **AWS Amplify**
 
-- 💬 Ask me about **Flutter, React.js, React Native, Javascript, Redux**
+- 💬 Ask me about **Flutter, React Native, Javascript, Redux**
 
 - 📫 How to reach me **mubarakshabel0@gmail.com**
 
