@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **AWS Amplify**
-
-- 💬 Ask me about **Flutter, React Native, Javascript, Redux**
+- 💬 Ask me about **Flutter, React Native, Javascript**
 
 - 📫 How to reach me **mubarakshabel0@gmail.com**
 
