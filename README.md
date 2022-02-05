@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubarak Shabel</h1>
-<h3 align="center">I'm Mubarak Shabel. A Curious, Passionate Jr. Mobile Developer. Love to take Dare and handle it professionally. Handle difficulties and errors efficient way. I'm a tech savvy. Try to keep myself with new technologies and learn that.</h3>
+<h3 align="center">I'm Mubarak Shabel. A Curious, Passionate Jr. Mobile Developer.</h3>
 
 - 🔭 I’m currently working on **BlogApp**
 
