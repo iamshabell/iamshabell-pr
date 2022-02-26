@@ -1,52 +1,31 @@
-<!-- Your title -->
-## Hi there 🐱‍💻
+## Hi I'm Mubarak <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+I'm Mubarak Shabel a Full Stack Mobile Developer. I Spend most of time coding outstanding projects.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-shabel-a13691223/)
-&nbsp;
+:mailbox: Reach me out!
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+[![Twitter Badge](https://img.shields.io/badge/-@Iamshabel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/iamshabell) [![Linkedin Badge](https://img.shields.io/badge/-Mubarak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubarak-shabel-a13691223/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mubarakshabel0@gmail.com)
 
-<!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- TODO: Add last video link -->
 
-- 👨🏽‍💻 I’m currently learning about GraphQL as well as algorithms & DS.
-- 👯 I’m looking to collaborate on Nodejs or Flutter projects  🤝.
-- 💬 Ask me about anything, I am happy to help.
+- 🔭 I’m currently learning Nodejs and GraphQL
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for help with Frontend sides.
 - 📫 How to reach me: mubarakshabel0@gmail.com.
+- ⚡ Fun fact: I play games and go to the GYM very often.
 
-**Languages and Tools:** 
+#### Top Technologies
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <br>
-  <a href="https://github.com/iamshabell/">
-    <img width="55%" align="right" alt="Yusuf's github stats" src="https://github-readme-stats.vercel.app/api?username=iamshabell&show_icons=true&count_private=true&theme=tokyonight" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Nodejs"></code>
-  <br />
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="Nestjs"></code>
-  <code><img width=30 height= 30 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"></code>
-  <br />
-  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg" alt="redux"></code>
-  <code><img width=4% src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"></code>
-  <code><img width=30 height= 30 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3"></code>
-</p>
+<!-- TODO: Make technologies links takes you to repositories -->
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+#### Bizness
+- :email: mubarakshabel0@gmail.com
+
+
+#### Github Stats
+
+![Mubarak's github stats](https://github-readme-stats.vercel.app/api?username=iamshabell&count_private=true&theme=tokyonight&hide=contribs,prs)
+
