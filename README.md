@@ -13,7 +13,6 @@ I'm Mubarak Shabel a Software Developer. I Spend most of time coding outstanding
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Frontend sides.
 - 📫 How to reach me: mubarakshabel0@gmail.com.
-- ⚡ Fun fact: I play games and go to the GYM very often.
 
 #### Top Technologies
 
