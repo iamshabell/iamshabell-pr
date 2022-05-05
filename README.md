@@ -21,7 +21,6 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#) [![Python Badge](https://img.shields.io/badge/-Flutter-3F79AC?style=for-the-badge&labelColor=black&logo=flutter&logoColor=3F79AC)](#) 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/iamshabell/Resume/blob/main/myresume.pdf)
 - :email: mubarakshabel0@gmail.com
 
 
